@@ -1,3 +1,4 @@
+
 # Maven build output
 target/
 
@@ -6,6 +7,7 @@ target/
 
 # Log files
 *.log
+hs_err_pid*.log
 
 # IDE configuration
 .idea/
